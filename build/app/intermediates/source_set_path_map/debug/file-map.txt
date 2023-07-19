@@ -1,0 +1,14 @@
+com.example.webviewexample.app-jetified-window-java-1.0.0-beta04-0 /home/unamiatoii/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.webviewexample.app-core-1.6.0-1 /home/unamiatoii/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.webviewexample.app-webkit-1.5.0-2 /home/unamiatoii/.gradle/caches/transforms-3/7a9e722f9cadd913a07709114ac94695/transformed/webkit-1.5.0/res
+com.example.webviewexample.app-jetified-annotation-experimental-1.1.0-3 /home/unamiatoii/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.webviewexample.app-jetified-window-1.0.0-beta04-4 /home/unamiatoii/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.webviewexample.app-debug-5 /home/unamiatoii/Bureau/safid/android/app/src/debug/res
+com.example.webviewexample.app-main-6 /home/unamiatoii/Bureau/safid/android/app/src/main/res
+com.example.webviewexample.app-pngs-7 /home/unamiatoii/Bureau/safid/build/app/generated/res/pngs/debug
+com.example.webviewexample.app-resValues-8 /home/unamiatoii/Bureau/safid/build/app/generated/res/resValues/debug
+com.example.webviewexample.app-rs-9 /home/unamiatoii/Bureau/safid/build/app/generated/res/rs/debug
+com.example.webviewexample.app-mergeDebugResources-10 /home/unamiatoii/Bureau/safid/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.webviewexample.app-mergeDebugResources-11 /home/unamiatoii/Bureau/safid/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.webviewexample.app-merged_res-12 /home/unamiatoii/Bureau/safid/build/app/intermediates/merged_res/debug
+com.example.webviewexample.app-packaged_res-13 /home/unamiatoii/Bureau/safid/build/webview_flutter_android/intermediates/packaged_res/debug
