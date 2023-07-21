@@ -345,27 +345,27 @@
     },
     {
       "name": "webview_flutter",
-      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/webview_flutter-2.8.0",
+      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/webview_flutter-4.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "webview_flutter_android",
-      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/webview_flutter_android-2.10.4",
+      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/webview_flutter_android-3.9.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "webview_flutter_platform_interface",
-      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/webview_flutter_platform_interface-1.9.5",
+      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/webview_flutter_platform_interface-2.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "webview_flutter_wkwebview",
-      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5",
+      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.7.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.18"
     },
     {
       "name": "win32",
@@ -398,7 +398,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-07-20T16:08:54.291346Z",
+  "generated": "2023-07-21T13:59:19.662510Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }
