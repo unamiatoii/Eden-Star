@@ -152,6 +152,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "fluttertoast",
+      "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/fluttertoast-8.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "html",
       "rootUri": "file:///home/unamiatoii/.pub-cache/hosted/pub.dev/html-0.15.4",
       "packageUri": "lib/",
@@ -398,7 +404,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-07-21T13:59:19.662510Z",
+  "generated": "2023-07-24T13:06:04.484571Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }
